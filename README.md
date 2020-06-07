@@ -23,7 +23,7 @@ __External libraries__
 
 ### Run Game Server
 * Download this repository.
-* Open folder [word-guessing-game](./word-guessing-game/) of the repository on terminal.
+* Open folder word-guessing-game/ from the repository on terminal.
 * Run `npm install` and then `node server.js`.
 
 ### Customize words
