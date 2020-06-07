@@ -27,7 +27,7 @@ __External libraries__
 * Run `npm install` and then `node server.js`.
 
 ### Customize words
-* Add more words to (words.js)[./words.js].
+* Add more words to __words.js__.
 
 ## Game screen caps
 
