@@ -41,4 +41,4 @@ __Game Play__
 
 __End of Game__
 
-![End of Game](./images/Game_End.png)
+![End of Game](./images/Game_Ended.png)
