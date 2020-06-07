@@ -15,9 +15,9 @@ Open the game page on a web browser at [http://localhost:3000/](http://localhost
 * The game server is built on JS and runs on NodeJS.
 * The game page uses html and CSS.
 * The game server works for multiple players.
+* The game is case-insensitivity.
 
 __External libraries__
-
 * express.js
 * cookie-parser
 
@@ -28,6 +28,7 @@ __External libraries__
 
 ### Customize words
 * Add more words to __words.js__.
+* All words in the file should be of the same length.
 
 ## Game screen caps
 
